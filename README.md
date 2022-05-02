@@ -1,5 +1,12 @@
-- 👋 Hi, I’m Eber
-- 👀 I’m interested in ...
+<h2>Hey! I'm Eber <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" ></h2>
+
+<!-- ## 👋 &nbsp;Hey there! I'm Adrian-->
+
+### 👨🏻‍💻 &nbsp;About Me
+
+- 🎓 I'm Computer Systems Engineering at University of Guanajuato.
+- 💡 I like to explore new technologies and develop software solutions.
+- 👀 I’m interested in Web Developer, IA, Big Data.
 - 🌱 I’m currently learning ...
 
 
