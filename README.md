@@ -1,6 +1,5 @@
-<h2>Hey! I'm Eber <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" ></h2>
+<h2>Hey! I'm Eber </h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Adrian-->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
