@@ -6,7 +6,7 @@
 - 🎓 I'm Computer Systems Engineering at University of Guanajuato.
 - 💡 I like to explore new technologies and develop software solutions.
 - 👀 I’m interested in Web Developer, IA, Big Data.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Solidity
 
 
 ### 🛠 &nbsp;Tech Stack
